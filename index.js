@@ -29,5 +29,11 @@ function card1(details1){
   var occ=document.createElement("h2");
   occ.textContent=details1[i].occ;
   card.appendChild(occ);
+  let anc=document.createElement("a");
+  anc.href="res.html";
+  card.appendChild(anc);
+  var pro=document.createElement("h2");
+  pro.textContent=details1[i].profile;
+  anc.appendChild(pro);
 }
 }
