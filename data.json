@@ -1,0 +1,40 @@
+{
+  "card1":[{
+    "image":"pro.png",
+     "name":"jyothi",
+    "occ":"student"
+ },
+   {
+  "image":"pro1.png",
+   "name":"mani",
+  "occ":"student"
+}
+],
+"personaldetails":{
+  "image":"pro.png",
+  "n1":"saisivajyothi",
+  "disg":"student",
+  "fname":"B.krishnareddy",
+  "email":"saisivajyothib@gmail.com",
+  "Phone":"9666336020"
+},
+"CAREEROBJECTIVE": {
+  "info":"CARREROBJECTIVE:",
+			"obj":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company."
+ },
+ "ACADEMICS":{
+   "info3":"ACADEMICS:",
+   "graduation":"B.Tech in QISCET with 90%",
+   "intermediate":"Intermedite in NRMK with 98%" ,
+   "ssc":" ssc in sri siva sai public school with 92%"
+ },
+ "Technicalskills":{
+   "infor":"Technical skills:",
+ "info1":"c,java,python"
+ },
+
+ "Habbies":{
+   "infer":"Habbies:",
+   "info2":"reading books,watching movies,etc.,"
+}
+}
