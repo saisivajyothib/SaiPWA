@@ -2,12 +2,14 @@
   "card1":[{
     "image":"pro.png",
      "name":"jyothi",
-    "occ":"student"
+    "occ":"student",  
+     "profile":"Profile"
  },
    {
   "image":"pro1.png",
    "name":"mani",
-  "occ":"student"
+  "occ":"student",  
+   "profile":"Profile"
 }
 ],
 "personaldetails":{
